@@ -1,0 +1,4 @@
+appointment_id,patient_id,appointment_date,doctor_name,reason_for_visit,notes
+1,1,2023-10-26,Dr. Evans,"Routine checkup and high blood pressure follow-up.",
+2,2,2023-10-25,Dr. Evans,Annual physical examination.,
+3,4,2023-10-24,Dr. Carter,"Diabetes management and medication review.",

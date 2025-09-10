@@ -1,0 +1,6 @@
+history_id,patient_id,condition_name,diagnosis_date,status
+1,1,Hypertension,2015-10-10,Chronic
+2,4,Diabetes Type II,2010-04-22,Chronic
+3,4,Hyperlipidemia,2011-05-15,Chronic
+4,7,Myocardial Infarction,2020-01-05,Resolved
+5,10,Hypothyroidism,2005-08-30,Chronic

@@ -1,0 +1,4 @@
+vital_id,appointment_id,height_cm,weight_kg,temperature_c,heart_rate_bpm,systolic_bp,diastolic_bp,respiratory_rate,oxygen_saturation
+1,1,175.2,90.5,,,155,95,,
+2,2,163.0,68.0,,,118,78,,
+3,3,180.0,105.2,,,142,88,,

@@ -1,0 +1,6 @@
+prediction_id,patient_id,prediction_date,model_version,disease_name,prediction_score,risk_category
+1,1,,cardio_risk_v3.0,Coronary Artery Disease,0.87,High
+2,4,,cardio_risk_v3.0,Coronary Artery Disease,0.92,High
+3,4,,diabetes_complications_v2.1,Diabetic Nephropathy,0.45,Medium
+4,7,,cardio_risk_v3.0,Recurrent Myocardial Infarction,0.78,High
+5,2,,cardio_risk_v3.0,Coronary Artery Disease,0.15,Low

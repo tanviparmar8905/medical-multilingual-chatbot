@@ -1,0 +1,11 @@
+lifestyle_id,patient_id,smoking_status,alcohol_consumption,activity_level,diet_type,sleep_hours_per_night
+1,1,Current,Heavy,Sedentary,,5.5
+2,2,Never,None,Moderate,,7.0
+3,3,Former,Light,Active,,8.0
+4,4,Current,Moderate,Light,,6.5
+5,5,Never,Light,Active,,7.5
+6,6,Former,Moderate,Moderate,,6.0
+7,7,Current,Heavy,Sedentary,,5.0
+8,8,Never,None,Active,,8.5
+9,9,Never,Light,Moderate,,7.0
+10,10,Former,Moderate,Light,,6.5

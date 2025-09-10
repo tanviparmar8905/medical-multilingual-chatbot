@@ -1,0 +1,6 @@
+lab_id,patient_id,test_name,test_value,unit,test_date,reference_range
+1,1,Total Cholesterol,245.0,mg/dL,2023-10-20,"<200 mg/dL"
+2,1,LDL Cholesterol,180.0,mg/dL,2023-10-20,"<100 mg/dL"
+3,4,HbA1c,7.8,%,2023-10-19,"<5.7%"
+4,4,Fasting Glucose,148.0,mg/dL,2023-10-19,"70-100 mg/dL"
+5,2,Vitamin D,32.0,ng/mL,2023-10-18,"30-100 ng/mL"
